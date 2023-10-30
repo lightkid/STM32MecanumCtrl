@@ -1,2 +1,4 @@
 # STM32MecanumCtrl
 STM32F103RET6
+
+IDE：STM32Cube IDE 1.12.0
